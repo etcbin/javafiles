@@ -9,7 +9,7 @@ public class LambdaTest {
 	public static void main(String[] args) {
 		LambdaTest tester = new LambdaTest();
 		
-	      //with type declaration pasta 553 v
+	      //with type declaration
 	      MathOperation addition = (int a, int b) -> a + b;
 			
 	      //with out type declaration
